@@ -1,0 +1,18 @@
+![[Kullback-Leibler Divergence Details Slides.pdf]]
+Care of divergence is trying to measure the expected number of x bits required to code the sample from Px when using the code based on Qx. So you are taking the Qx as the sample, which represents the series or model discretion or approximation of P. So KL divergence is not a distance measure. It is not metric. It is asymmetry. So it does not satisfy triangular equality. And also dKL P over Q does not equal to dKL Q over P. 
+
+So in the real application, we often use the P to represent the true distribution of the data. We call it observations. OK? All the precisely computed and calculated theoretical distributions. Q typically represents a theory, a model, or a discretion, or approximation of P. So we want to measure how far the approximation is from the true distribution. So KL divergence from Q to P, denoted as dKL P over Q, is a measure of the information gained when one rewrites one's piece from the prior probability distribution Q. 
+
+So you have a prior probability distribution Q, then you want to get to the posterior probability distribution P. So it is also, on the other side, it's the same way that it is the amount of information lost when just use Q to approximate P. OK? So either way. And also KL divergence is sometimes also called the information gain achieved if P is used instead of Q. OK? So it is also called the relative entropy P with respect to Q. OK? 
+
+So based on that formula, we have PKL is greater than or equal to 0. OK? And dKL P over Q equals 0 if and only if P and Q are the same. OK? The problem, there are some problems when you calculate this using this formula. What if at a certain point P, because you have, you can see that P over Q, right? So at a certain position, certain position that the Q, P is 0, that's easy. 
+
+P is, when P is equal to 0, P log P equal to 0, because when P is approaching 0. OK? So that is very easy. However, when P is not 0, but Q is 0, then ln P over Q, where P over Q become infinity. OK? So we define that as infinity. So infinity will bring a little bit of trouble. 
+
+So if one event E is possible, OK, say that means P, event P greater than 0, and then the other predict is absolutely impossible to, say, equal to 0, then two distributions are absolutely different. So this makes sense. OK? However, that makes sense. OK? However, in the practical, OK, in the practical, P and Q are derived from the frequency distribution. We are not counting the possibility of unsafe event. 
+
+So we want to smooth it, that to avoid such situation where infinity happens. So in that case, we can introduce a small constant. Then we take that small constant to put it into the position where that probability becomes 0. OK? There you, for example, you have P has a A, B, C. The probability is 3 over 5, 1 over 5, 1 over 5. And then D is not there. 
+
+So we put an epsilon is equal to 10 of negative 3 power, OK? And then that's a very small value. Then we convert this S, P, and S, Q into S, U, A, B, C, D. So then P become, P prime become 3 minus epsilon. So we take, we add a D value there. Then we divide this epsilon into 3 piece, OK? And add into the other value, A, B, C, just minus 1 third of this epsilon. 
+
+You do the same. You add epsilon on the C, and then you minus epsilon, 1 third of epsilon on the other value. Then with this value, then we can apply this data, there is no infinity, OK? And so it is easy to compute. So that is in practical situation, OK?

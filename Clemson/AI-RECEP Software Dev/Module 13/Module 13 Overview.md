@@ -1,0 +1,3 @@
+![[Module 13 overview .pdf]]Welcome back. Topics for this module include Mythical Man Month and a project check in. In this module, you're going to read chapters from Mythical Man Month. You're going to take one quiz over your reading, and then make sure you complete your project check in. Week 7, you're going to do some testing and refinement of your project. You can take the Mythical Man Month quiz on Coursera. Finally, don't forget, make sure you do your check-in on Coursera discussions. 
+
+Provide updates on milestones and deliverables.

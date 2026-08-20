@@ -1,0 +1,1 @@
+Link: [https://www.youtube.com/watch?v=K186LsrXmgs](https://www.youtube.com/watch?v=K186LsrXmgs "YouTube - Ethics in Software Engineering: An Unspoken Rule")

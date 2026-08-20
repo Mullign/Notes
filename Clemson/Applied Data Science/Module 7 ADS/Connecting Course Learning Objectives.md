@@ -1,0 +1,22 @@
+- **CO 1:** Learners will be able to explain the uses of Python and other tools, and apply their knowledge by using Python to scrape, clean, and process data. 
+    
+- **CO 2:** Learners will be able apply visualization techniques to explore data and communicate results.
+    
+- **CO 3:** Learners will be able to implement basic machine learning algorithms on data, and interpret their output for inference and prediction.
+    
+- **CO 4:** Learners will be able to examine and compare the performance of different data science models, and select a best-performing model for an application.
+    
+- **CO 5:** Learners will be able to design a study to investigate the applicability and performance of various data science models for a given data set.
+    
+- **CO 6:** Learners will be able to report data analysis results effectively (visually, verbally, and in writing), and defend the validity of results with respect to model performance and selected methods.
+    
+- **CO 7:** Learners will be able to examine ethical issues in data science.
+    
+
+| **Course Objective**     | **Module Objective**                                                                                 | **Activities**                                                                                                                                               | **Assessments**                                                                                                                                                                        |
+| ------------------------ | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CO 3**                 | **7.1** Learners will be able to describe the Apriori algorithm for frequent itemset mining.         | • **Video:** A-Priori Algorithm                                                                                                                              | • **Programming Assignment:** Module 7 Lab: Clustering<br><br>• **Programming Assignment:** Module 7 Homework: Clustering<br><br>• **Graded Assignment:** Association Rule Mining Quiz |
+| **CO 3**<br><br>**CO 4** | **7.2** Learners will be able to utilize the mlxtend package for frequent itemset mining tasks.      | • **Video:** Frequent Itemset Mining and Association Rules<br><br>• **Video:** Finding Frequent Itemsets<br><br>• **Video:** Frequent Itemsets in < 2 Passes | • **Programming Assignment:** Module 7 Lab: Clustering<br><br>• **Programming Assignment:** Module 7 Homework: Clustering<br><br>• **Graded Assignment:** Association Rule Mining Quiz |
+| **CO 2**                 | **7.3** Learners will be able to create visualizations to represent frequent itemsets.               | • **Video:** Frequent Itemset Mining and Association Rules<br><br>• **Video:** Finding Frequent Itemsets<br><br>• **Video:** Frequent Itemsets in < 2 Passes | • **Programming Assignment:** Module 7 Lab: Clustering<br><br>• **Programming Assignment:** Module 7 Homework: Clustering<br><br>• **Graded Assignment:** Association Rule Mining Quiz |
+| **CO 3**<br><br>**CO 4** | **7.4** Learners will be able to analyze transactional data to discover frequent itemsets.           | • **Video:** Frequent Itemset Mining and Association Rules<br><br>• **Video:** Finding Frequent Itemsets<br><br>• **Video:** Frequent Itemsets in < 2 Passes | • **Programming Assignment:** Module 7 Lab: Clustering<br><br>• **Programming Assignment:** Module 7 Homework: Clustering<br><br>• **Graded Assignment:** Association Rule Mining Quiz |
+| **CO 6**                 | **7.5** Learners will be able to explain the concept of support and confidence in association rules. | • **Video:** Frequent Itemset Mining and Association Rules<br><br>• **Video:** Finding Frequent Itemsets<br><br>• **Video:** PCY (Park-Chen-Yu) Algorithm    | • **Programming Assignment:** Module 7 Lab: Clustering<br><br>• **Programming Assignment:** Module 7 Homework: Clustering<br><br>• **Graded Assignment:** Association Rule Mining Quiz |

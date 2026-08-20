@@ -1,0 +1,29 @@
+
+![[Prototyping, Challenges, and the Future of AI in Software Design.pdf]]
+[MUSIC] So what is AI in design? We want to use AI to automate and enhanced design tasks. The benefits here are that it speeds up the design process, provides intelligent design suggestions, and enhances creativity and innovation. As software engineers, we are not experts in design most of the time. And that's okay. But we can use tools to help us, and we should rely on those tools when they're there for us to use. Alright, so some tools for prototyping, specifically AI tools. 
+
+There are quite a few out there. Figma now has some AI plugins. You might have used Sketch. They have AI integrations for smart design. Lots of new tools and old tools are integrating AI into their design software product. So a step by step process for using a tool for designers. We want to choose our tool, of course. 
+
+So think about your projects needs. And what kind of tool features are you going to need to help you design? So then we want to create wireframes. We use AI to generate initial layout suggestions. We want to design high fidelity prototypes. Enhanced designs with AI driven color and layout recommendations. We want interactivity, so these tools can help us implement user flows and interaction with AI guidance. 
+
+We also want feedback and iteration, just like I keep saying over and over, we can also get feedback from AI and create, quote unquote, fake data for users and iterate through designs. That does not mean that you should not go interact with users, human users, to test the software. To be very clear, AI is not perfect. We know this. AI is not human. Humans make mistakes. Humans operate in ways that only humans can operate. 
+
+So use the tools to help you gather feedback, to make changes. And then also, remember, you use the real users population. You want humans. You might need to verify some of the feedback from AI. It could be wrong. The nice thing is AI can help you gather feedback before you even meet a user. And so take it with a grain of salt, but think about the feedback that is given. 
+
+And then maybe you can improve your product before going out for user testing, allowing you to make improvements quicker throughout the process. Let's step back and talk about wireframes real quick. What are wireframes? They are basic low fidelity sketches or blueprints of a web page or app, focusing on layout and structure without detailed design elements. Think: simple. Also, let's just define design high fidelity prototypes as well. These are detailed interactive representations of a design that closely resemble the final product in terms of layout, design, and functionality. 
+
+So the step by step process has these five steps. You can walk through. You can go back to steps, right? This can be iterative. You don't want to necessarily just have one go at it. You might need to try out a couple of AI tools. You might need to create wireframes, get the feedback, and then recreate wireframes. 
+
+It's a process. It takes a long time, but it's worth doing well and doing it right. So there are a lot of different tools that are out there, and there's a lot of different companies and businesses using these tools. For example, an E commerce app designed using Figma and AI plugins. It can use automated layout suggestions and color palette generation. This means that we can have a faster design iteration and a polish final prototype quicker. Another case study, think about a health and fitness app. 
+
+You can use AI tools to create that. You can have rapid wireframe generation and intelligent component suggestions leading to efficient prototyping with minimum manual adjustment. Best practices for using AI and prototyping. So we want to start with clear requirements. This is key. We want to start on the right foot. Define the purpose and key features of your application. 
+
+Next, we can leverage AI in its suggestions. So use AI recommendations as a starting point and then customize. And you can iterate frequently continuously refining your design based on AI feedback. Again, seek human feedback. Yes, we have these AI tools. They are so helpful. They are great, and we should take advantage of them. 
+
+But we also need that human input for best results. That will make for a really great product. Okay. So there are challenges and considerations, of course. Learning curve with these AI tools, some of them are very different from one another, so it can take a while to learn these tools and their features. While, also these tools are ever changing right now, right? They're updating. It can be really hard to familiarize yourself with multiple AI tool features. 
+
+Because these tools are new, they are ever changing right now, and the features are being improved upon. We also make sure that we're not reliant on AI. We want to balance this AI automation with human creativity. We don't want to lose that human aspect. We need to have that human aspect in our product design, and our testing because they are the ones going to use it, not the AI tool. So data privacy also very important. We always want to make sure that user data is handled securely when using AI tools. 
+
+So be careful what you input to AI tools because it's very important to keep data private and secure. Alright. So the future of AI design. There's a lot of things going on. Things are changing. Every day, there's a new tool out there, a new feature, and it's so exciting. So right now we're seeing some AI driven personalized user experiences coming about. 
+
+We're also seeing some integration of AI with AR, VR for immersive prototyping, so that's really cool. We will see these AI tools continue to evolve, offering more advanced features as time goes on. Here's a really great video. It's about how to power human experiences with AI. Please watch this video and then come back. [MUSIC]

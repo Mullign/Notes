@@ -1,0 +1,22 @@
+## Course-Level Objectives:
+
+- **CO 1:** Learners will be able to explain key concepts related to Interaction Design and Human-Computer Interaction and apply design thinking to the creation of computer systems. 
+    
+- **CO 2:** Learners will be able to identify design guidelines and best practices, taking into consideration human cognition, social interaction, and emotional interaction needs of users.
+    
+- **CO 3:** Learners will be able to employ data gathering techniques in user studies and recall principles of establishing requirements for modern computer systems.
+    
+- **CO 4:** Learners will be able to apply critical design thinking in the design, digital prototyping, and user evaluation of novel computer systems.
+    
+- **CO 5:** Learners will be able to identify emerging technologies such as XR, Tangible Interfaces, and AI and identify how Human-Computer Interaction is applied in the design of these technologies.
+    
+- **CO 6:** Learners will be able to conduct and report usability and user experience testing that ranges from controlled to natural settings.
+    
+- **CO 7:** Learners will be able to write technical reports and develop communication and presentation skills when discussing human factors in computing systems.
+    
+
+| **Course Objective**     | **Module Objective**                                                                                                                                                                                                  | **Activities**                                                                                                                                                                                                                                                                                                  | **Assessments**                                                                                     |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **CO 2**<br><br>**CO 4** | **4.1** Learners will be able to recognize and compare systems through the evolution of social interaction in HCI from early chatbots to modern complex dialogue systems.                                             | • **Reading:** Interaction Design: Chapter 4<br><br>• **Video:** Introduction to Social Interaction<br><br>• **Video:** Conversational Mechanism<br><br>• **Video:** Breakdowns in Conversation<br><br>• **Video:** Introduction to Remote Conversation<br><br>• **Video:** Evolution of Video Phone Technology | • **Practice Assignment:** Practice Quiz #1<br><br>• **Graded Assignment:** Module 4 Quiz (Quiz #4) |
+| **CO 1**<br><br>**CO 2** | **4.2** Learners will be able to describe simple and complex remote communication technologies for technology-mediated human communication, including concepts such as telepresence and co-presence.                  | • **Reading:** Interaction Design: Chapter 4<br><br>• **Video:** Introduction to Telepresence<br><br>• **Video:** Examples of Telepresence<br><br>• **Video:** Future Considerations for Telepresence                                                                                                           | • **Practice Assignment:** Practice Quiz #2<br><br>• **Graded Assignment:** Module 4 Quiz (Quiz #4) |
+| **CO 1**<br><br>**CO 2** | **4.3** Learners will be able to identify how tangible  interfaces and ambient technologies can be used to communicate the state of users, such as awareness mechanisms, turn-taking, life-logging, and data sharing. | • **Reading:** Interaction Design: Chapter 4<br><br>• **Video:** Introduction to Co-Presence: Face-to-Face Coordinating and Awareness Mechanisms<br><br>• **Video:** Technology to Support Awareness                                                                                                            | • **Practice Assignment:** Practice Quiz #3<br><br>• **Graded Assignment:** Module 4 Quiz (Quiz #4) |

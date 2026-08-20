@@ -1,0 +1,3 @@
+This chapter will cover the following topics: the programming systems product, the joys of programming, and the woes of programming.
+
+[Click here](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf "The Mythical Man-Month - University of Michigan") to read the full text of _The Mythical Man-Month: Essays on Software Engineering_ by Frederick P. Brooks in a new window.![[MMM - CH 1.pdf]]

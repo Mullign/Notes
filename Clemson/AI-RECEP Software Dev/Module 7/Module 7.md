@@ -1,0 +1,7 @@
+[[Connecting Course Learning Objectives]]
+[[Example of Weekly Project Check-In]]
+[[Final Project Instructions]]
+[[Grading for Final Project]]
+[[The Personalized Movie Recommendation System Project]]
+[[The Personalized Movie Recommendation System Project.pdf]]
+[[Weekly Project Check-In Instructions]]

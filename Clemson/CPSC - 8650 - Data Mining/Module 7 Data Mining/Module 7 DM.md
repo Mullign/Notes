@@ -1,0 +1,7 @@
+[[Connecting Course Learning Objectives]]
+[[Neural Networks DM/Artificial NN and Biological Inspiration]]
+![[Neural Networks DM/Artificial-NN-and-Biological-Inspiration.pdf]]
+[[Neural Networks DM/Neural Network Basic Concepts]]
+![[Neural Networks DM/Neural-Network-Basis-Concepts.pdf]]
+[[Neural Networks DM/NN Pattern Recognition]]
+![[Neural Networks DM/NN-Pattern-Recognition.pdf]]

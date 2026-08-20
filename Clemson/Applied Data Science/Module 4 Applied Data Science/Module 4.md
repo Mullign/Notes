@@ -1,0 +1,8 @@
+[[Module 4]]
+![[04-02-linear-regression-homework.pdf]]
+[[Connecting Course Learning Objectives]]
+[[Cross Validation and Bias vs. Variance]]
+![[Cross Validation and Bias vs. Variance Slides.pdf]]
+![[Module 4 Accessible Slides.pdf]]
+[[Overfitting and Model Selection]]
+![[Overfitting and Model Selection Slides.pdf]]

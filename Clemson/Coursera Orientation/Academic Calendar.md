@@ -1,0 +1,1 @@
+Review Clemson University's Academic Calendar below, or [click here](https://www.clemson.edu/registrar/academic-calendars/ "Clemson University Academic Calendars from the Registrar's office") to view the University's webpage.

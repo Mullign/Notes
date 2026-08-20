@@ -1,0 +1,22 @@
+- **CO 1:** Learners will be able to explain the uses of Python and other tools, and apply their knowledge by using Python to scrape, clean, and process data. 
+    
+- **CO 2:** Learners will be able apply visualization techniques to explore data and communicate results.
+    
+- **CO 3:** Learners will be able to implement basic machine learning algorithms on data, and interpret their output for inference and prediction.
+    
+- **CO 4:** Learners will be able to examine and compare the performance of different data science models, and select a best-performing model for an application.
+    
+- **CO 5:** Learners will be able to design a study to investigate the applicability and performance of various data science models for a given data set.
+    
+- **CO 6:** Learners will be able to report data analysis results effectively (visually, verbally, and in writing), and defend the validity of results with respect to model performance and selected methods.
+    
+- **CO 7:** Learners will be able to examine ethical issues in data science.
+    
+
+| **Course Objective**     | **Module Objective**                                                                                           | **Activities**                                                                                                                                                                                | **Assessments**                                                                                                                                             |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **CO 3**                 | **12.1** Learners will be able to explain the concept of overfitting in neural networks.                       | • **Video:** Challenges in Optimization<br><br>• **Video:** Momentum<br><br>• **Video:** Adaptive Learning Rate                                                                               | • **Programming Assignment:** Module 12 Lab: Feed Forward Neural Networks<br><br>• **Graded Assignment:** Neural Network Optimization & Regularization Quiz |
+| **CO 3**<br><br>**CO 4** | **12.2** Learners will be able to apply regularization techniques like dropout to prevent overfitting.         | • **Video:** Parameter Initialization and Batch Normalization<br><br>• **Video:** Norm Penalties, Early Stopping, and Data Augmentation<br><br>• **Video:** Sparse Representation and Dropout | • **Programming Assignment:** Module 12 Lab: Feed Forward Neural Networks<br><br>• **Graded Assignment:** Neural Network Optimization & Regularization Quiz |
+| **CO 4**<br><br>**CO 6** | **12.3** Learners will be able to analyze the impact of different regularization methods on model performance. | • **Video:** Parameter Initialization and Batch Normalization<br><br>• **Video:** Norm Penalties, Early Stopping, and Data Augmentation<br><br>• **Video:** Sparse Representation and Dropout | • **Programming Assignment:** Module 12 Lab: Feed Forward Neural Networks<br><br>• **Graded Assignment:** Neural Network Optimization & Regularization Quiz |
+| **CO 5**<br><br>**CO 6** | **12.4** Learners will be able to interpret training and validation curves to diagnose overfitting.            | • **Video:** Norm Penalties, Early Stopping, and Data Augmentation<br><br>• **Video:** Sparse Representation and Dropout                                                                      | • **Programming Assignment:** Module 12 Lab: Feed Forward Neural Networks<br><br>• **Graded Assignment:** Neural Network Optimization & Regularization Quiz |
+| **CO 5**                 | **12.5** Learners will be able to tune hyperparameters to optimize the performance of a neural network.        | • **Video:** Norm Penalties, Early Stopping, and Data Augmentation<br><br>• **Video:** Sparse Representation and Dropout                                                                      | • **Programming Assignment:** Module 12 Lab: Feed Forward Neural Networks<br><br>• **Graded Assignment:** Neural Network Optimization & Regularization Quiz |

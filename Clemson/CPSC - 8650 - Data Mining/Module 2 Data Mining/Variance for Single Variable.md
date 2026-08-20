@@ -1,0 +1,6 @@
+![[Variance for Single Variable slides.pdf]]
+So for the variance in the single variables, OK, it provides a measure of how much the individual values derivates from the mean or expected value of x. So the expected value is the mean value, OK? So the formula is variance equals variance x equals E of x minus mu squared, OK? And if it is this gradient value, and then we take the sum of square of x. Otherwise, if it's continuous value, we take x minus mu square of x dx, OK? So for the square root of the variance, which is the sigma, OK, the sigma is called standard ratio. Mu is the mean, OK? 
+
+Mu equals E of x. E of x is the expected value of x, OK? So variance is expected value of the square derivation from the mean, OK? It can also be written as this formula, OK? The only thing that when you have a data sample, you may have two different formulas, OK? One uses 1 over n minus 1. When do we use this? 
+
+So when you have a very, very large sample size, you can use 1 divided by n. Or when you have a large but not enough large sample size, you should use 1 over n minus 1. If you have a very small sample, it doesn't matter if you use 1 over n or you use 1 over n minus 1. Doesn't matter because they are not able to accurately get in to the population variance, OK?

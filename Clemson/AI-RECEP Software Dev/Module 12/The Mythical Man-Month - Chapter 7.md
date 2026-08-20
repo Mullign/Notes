@@ -1,0 +1,3 @@
+This chapter will cover the following topics: a management audit of the Babel project, communication in large programming projects, the functions and purposes of a project workbook, and organization in large programming projects.
+
+[Click here](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf "The Mythical Man-Month - University of Michigan") to read the full text of _The Mythical Man-Month: Essays on Software Engineering_ by Frederick P. Brooks in a new window.![[The Mythical Man-Month - Chapter 7.pdf]]

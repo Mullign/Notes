@@ -1,0 +1,3 @@
+​Finally, a summary of this chapter is as follows. ​Getting requirements right is crucial. ​There are different kinds of requirements, ​each is significant for interaction design. ​The most commonly used techniques for data gathering are questionnaires, ​interviews, focus groups, direct observation, ​studying documentation, and researching similar products. ​We also looked in depth into scenarios, use cases, ​essential use cases as a way to articulate ​existing and envisioned work practices for requirements gathering. ​We also looked at task analysis techniques such as ​the hierarchical task analysis to help to ​investigate existing systems and practices. ​Thank you for your attention. 
+
+​Microsoft Mechanics ​www.microsoft.com

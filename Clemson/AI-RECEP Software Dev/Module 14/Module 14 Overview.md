@@ -1,0 +1,3 @@
+[MUSIC] Welcome back. Topics for this module include mythical man month and a project check in. In this module, you're going to read chapters from Mythical Man Month. You are going to take one quiz over your reading and then make sure you complete your project check-in. And then week eight, you will submit slide decks and documentation on your project. You can take the Mythical Man Month quiz on Coursera. Finally, don't forget, make sure you do your check in on Coursera. 
+
+Discussions provide updates on milestones and deliverables. [MUSIC]![[Module 14 module overview.pdf]]

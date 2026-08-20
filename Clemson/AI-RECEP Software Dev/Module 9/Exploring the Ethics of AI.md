@@ -1,0 +1,1 @@
+Link: [https://www.youtube.com/watch?v=3oqxjPXbynE](https://www.youtube.com/watch?v=3oqxjPXbynE "YouTube - Exploring the Ethics of AI")

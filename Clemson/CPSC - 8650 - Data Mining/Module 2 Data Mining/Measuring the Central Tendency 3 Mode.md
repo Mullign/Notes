@@ -1,0 +1,4 @@
+![[Measuring the Central Tendency 3 Mode Slides.pdf]]
+Our next central tendency measure is called the mode. Mode is the value that occur the most frequently in the data. You have unimodal. Given unimodal data, means there is only one value has the most number of appearance. There is empirical formula, which is mean minus mode equal to 3 times mean minus the median. This is assumed that for the data is unimodal distributed data. However, not all data are unimodal distributed. 
+
+They are in this next figure, we have bimodal data distribution where you have two largest occurrence values, and then you may have trimodal data, where you have three largest occurrence data.

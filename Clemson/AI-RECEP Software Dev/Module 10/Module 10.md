@@ -1,0 +1,5 @@
+[[MMM - CH 1.pdf]]
+[[Module 10 Learning Objectives]]
+[[mythical-man-month.pdf]]
+[[The Mythical Man-Month - Chapter 1]]
+[[The Mythical Man-Month - Chapter 2]]

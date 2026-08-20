@@ -1,0 +1,5 @@
+
+ ![[Introduction to Personalization.pdf]]
+>> We ended the last module talking about the future of AI and how right now a lot of personalization is being worked on with these new AI tools to give users a better experience, be able to have preferences that they want and to tailor to their needs. AI can enable more sophisticated and dynamic personalization than we can because it can go beyond the stack rules and manual configurations and so that's really, really cool. We've never really been able to do that prior to this and so now we can really personalize it and tailor it. Using a tool often will allow the tool to continue to improve its personalization for the user. So why is this important? Well, it increases user engagement. We're providing relevant content recommendations to the user. 
+
+We're enhancing their satisfaction by meeting their individual needs and preferences. And at the same time, we're boosting conversion rates and retention by creating a more enjoyable user experience and journey that is unique to each user.

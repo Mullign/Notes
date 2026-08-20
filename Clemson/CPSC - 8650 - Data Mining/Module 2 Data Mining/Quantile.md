@@ -1,0 +1,5 @@
+![[Quantile Slides.pdf]]And our next graphic display of data is quantile plot. So the quantile plot tries to display the quantile information of the data. The x-axis is the frequent value from 0 to 100, 0 to 1. And the y-axis is the value itself. For example, you have item price, the unit price for a store or for a certain store. And so you order them. So you sort the values in increasing order, the ascending order. 
+
+So then the fi and xi, the fi indicates the approximate percentage of the data below or equal to the value xi. Okay? So, for example, if you have 10 data points, then you order them, right? Then the 10 data values. Then the minimum data value, and then it will represent it as the 10% point, the point 1 on the x-axis. And then the value, for example, if that value is 30, then you draw a point at point 1 and the 30, right? So your next data point, for example, for data value is the second. 
+
+Second data point is 20% bigger. So your contact frequent point is point 2, and then assume that value is 40, then you draw point 2, and then 40, and then a point. So this line should always go higher, okay? Because that is how you draw the contact type plot.

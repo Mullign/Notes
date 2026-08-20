@@ -1,0 +1,4 @@
+![[Introduction to Design Principles Slides.pdf]]
+Some common design principles include the following. You need to have generalizable abstractions for thinking about different aspects of that design. So the do's and don'ts of interaction design need to be specifically thought about. What to provide and what not to provide at the interface needs to be considered. These can be derived from a mix of theory-based knowledge, experience, even common sense type things. Some common design principles, we will look at a few in the next slide, in the upcoming slide. These design principles are defined as just generalizable abstractions for thinking about different aspects of the design and common do's and don'ts of interaction design. 
+
+That's what the design principles and best practices actually provide. Like I said, we will look at a few in the upcoming slide.

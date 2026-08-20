@@ -1,0 +1,23 @@
+## Course-Level Objectives:
+
+- **CO 1:** Learners will be able to explain key concepts related to Interaction Design and Human-Computer Interaction and apply design thinking to the creation of computer systems. 
+    
+- **CO 2:** Learners will be able to identify design guidelines and best practices, taking into consideration human cognition, social interaction, and emotional interaction needs of users.
+    
+- **CO 3:** Learners will be able to employ data gathering techniques in user studies and recall principles of establishing requirements for modern computer systems.
+    
+- **CO 4:** Learners will be able to apply critical design thinking in the design, digital prototyping, and user evaluation of novel computer systems.
+    
+- **CO 5:** Learners will be able to identify emerging technologies such as XR, Tangible Interfaces, and AI and identify how Human-Computer Interaction is applied in the design of these technologies.
+    
+- **CO 6:** Learners will be able to conduct and report usability and user experience testing that ranges from controlled to natural settings.
+    
+- **CO 7:** Learners will be able to write technical reports and develop communication and presentation skills when discussing human factors in computing systems.
+    
+
+| **Course Objective**     | **Module Objective**                                                                                                                                                                 | **Activities**                                                                                                                                                                                                   | **Assessments**                                                                                                                     |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **CO 2**<br><br>**CO 3** | **5.1** Learners will be able to explain how computer interfaces can evoke both positive and negative emotions in users, and implications for the design of next generation systems. | • **Reading:** Interaction Design: Chapter 5<br><br>• **Video:** Introduction to Emotions and the User Experience<br><br>• **Video:** Exploring User Emotional Interaction<br><br>• **Video:** Models of Emotion | • **Practice Assignment:** Practice Quiz #1<br><br>_•_ _**Graded Assignment:**_ _Modules 5 & 6 Quiz (Quiz #5)_ _**in next module**_ |
+| **CO 2**                 | **5.2** Learners will be able to identify factors that contributes to more friendly and less frustrating computer interfaces.                                                        | • **Reading:** Interaction Design: Chapter 5<br><br>• **Video:** Expressive and Annoying Interfaces<br><br>• **Video:** Automatic Emotion Recognition and Emotional Technologies                                 | • **Practice Assignment:** Practice Quiz #2<br><br>_•_ _**Graded Assignment:**_ _Modules 5 & 6 Quiz (Quiz #5)_ _**in next module**_ |
+| **CO 2**<br><br>**CO 4** | **5.3** Learners will be able to describe how to track user emotions and behavior, as well as phishing and trust.                                                                    | • **Reading:** Interaction Design: Chapter 5<br><br>• **Video:** Persuasive Technologies and Behavioral Change<br><br>• **Video:** Persuasive Technology Examples: Tracking, Energy, Phishing                    | • **Practice Assignment:** Practice Quiz #3<br><br>_•_ _**Graded Assignment:**_ _Modules 5 & 6 Quiz (Quiz #5)_ _**in next module**_ |
+| **CO 1**<br><br>**CO 5** | **5.4** Learners will be able to define anthropomorphism and identify how it can be applied to computer interfaces, social robots, and AI-driven agents in computer systems.         | • **Reading:** Interaction Design: Chapter 5<br><br>• **Video:** Introduction to Anthropomorphism<br><br>• **Video:** Virtual Characters and Agents & Implications                                               | • **Practice Assignment:** Practice Quiz #3<br><br>_•_ _**Graded Assignment:**_ _Modules 5 & 6 Quiz (Quiz #5)_ _**in next module**_ |

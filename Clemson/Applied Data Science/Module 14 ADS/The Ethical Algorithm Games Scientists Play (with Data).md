@@ -1,0 +1,9 @@
+Most of this chapter examined settings in which people have preferences that may conflict with each other, and the ways in which algorithms can play a role in their mediation and management (for better or worse). Many of these "games" involved everyday activities such as driving or shopping, and some were more rarified, like assigning medical residencies.
+
+We have one last case study in which the participants may not think of themselves as players in a complex game -- but they are. It's the realm of modern scientific research, especially in the rapidly expanding disciplines in which data analysis and predictive modeling are playing an increasingly dominant role (which of course includes machine learning itself). The players in this game are the professors, graduate students, and industry researchers in data-driven fields. Their incentives involve the publication of novel and influential results, often requiring improvement in quantitative metrics such as the error rate on benchmark data sets or in the findings of prior experiments and analyses. Each new publication influences subsequent data-gathering, modeling, and choices made by the scientific community. It's a game where even individually careful scientists can participate in a bad equilibrium in which there is collective overfitting to widely used data sets -- thus leading to spurious and false "scientific" findings.
+
+It's a game that deserves a chapter of its own.
+
+**This excerpt was taken from** _**The Ethical Algorithm: The Science of Socially Aware Algorithm Design**_ **by Michael Kearns and Aaron Roth.**
+
+Kearns, M., & Roth, A. (2020). _The ethical algorithm: The Science of Socially Aware Algorithm Design_. Oxford University Press.

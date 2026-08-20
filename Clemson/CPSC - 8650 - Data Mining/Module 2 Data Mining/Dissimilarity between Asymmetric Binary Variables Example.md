@@ -1,0 +1,6 @@
+![[Dissimilarity between Asymmetric Binary Variables Example Slides.pdf]]
+Now, let's discuss an example of asymmetric binary variables and discuss the dissimilarity. So here is a vector of binary variables for Jake, Mary, and James. And Jake, Mary went to the doctors and then they have different symptoms, fever, cough, and test 1 positive, test 2 negative, test 3 negative, test 4 negative. So we are going to build a contingency table first. Now, this gender is an asymmetric attribute, so we are not going to count the asymmetric attribute. The gender will be ignored. Now then we will take fever, cough, test 1, test 2, test 3, test 4. 
+
+So we have 1, 2, 3, 4, 6 total different attributes. Now then you can see when Jake and Mary both yes or positive, you have 2 counts. So your contingency table on this cell is 2. Again then on this all negative, the T value is 3, so both negative, as a cough, test 2, and test 4. So T value is 3. Then when Jake is positive and Mary is negative, there is nothing, so that this cell is 0. And then when Jake is negative and Mary is positive, it is test 3, so this cell is 1. 
+
+So we build this contingency table. So our distance between Jake and Mary is r plus s divided by q plus r plus s. So that 1 divided by 3, so 0.33. Similarly we can do it with Mary, Mary, Jim, Jake, Jim.

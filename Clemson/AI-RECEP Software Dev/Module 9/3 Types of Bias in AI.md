@@ -1,0 +1,1 @@
+Link: [https://www.youtube.com/watch?v=59bMh59JQDo](https://www.youtube.com/watch?v=59bMh59JQDo "YouTube - 3 types of bias in AI | Machine learning")

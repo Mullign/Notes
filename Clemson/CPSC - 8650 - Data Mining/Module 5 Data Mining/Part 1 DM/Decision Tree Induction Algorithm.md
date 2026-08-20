@@ -1,0 +1,19 @@
+First of all, we start with the top. It's a top-down recursive divider counter. At first, all the training examples are at the root. Then we partition the examples based on the selected variable attribute. So on each node, attributes are selected based on the training examples on that node. Now you can use heuristic measure or statistical measure. Now, heuristic measure is that, hey, we want to build a flat tree. 
+
+So we will pick those with the largest number of categories of attributes. So for example, in this situation, an outlook has three different categories. And temperature is the hot, the mild, the cool, and then three. And humidity has the high, low, high, normal. And then windy has the true, false. So we either choose outlook or temperature because we say, hey, we want to build a branch first or partition a data set into a small set as quick as possible. So this is a heuristic approach. 
+
+And then you can also use a statistical measure, such as information gain or DINI index. We will discuss this method later on. So when do you stop? And as we see, you can stop when all the samples for a given node belong to the same class. For example, this sample belongs to yes. Then we stop because we don't have to test the other. Or after you partition, there is no remaining attribute for further partition. 
+
+Because every time you use one variable, after you partition with that variable, then you have to use the other attribute until you reuse up all the attributes. Then you're done. And then you can still not stop at that moment. Or you can still, like all sample, the sample still belongs to different category. Or then in that case, you have no other attributes to test. Then you stop there. Or when you partition, and then you don't have any way to partition. 
+
+Every sample is in their own group. And then you cannot further going down. There is no sample to net. So in such case, well, at the very bottom, not all the samples belong to the same class. But you cannot further partition anymore. In such case, you have to use a majority vote where it decides how to classify the if. OK, the if is yes and a no. 
+
+Then if yes more than no, then we put a yes. And the if is a yes and a no, but a no is more than yes, then we use a no. So that's how you do the decision tree induction algorithm. So that's the basic algorithm. OK? OK. And how about the continued value edge? 
+
+Because the decision tree, right? Our decision tree is always has the categorical data on the edge. But in our real database, they may not be the same. So either way, you have to, first of all, you need to discretize the continuous values, trade them as categorical values. OK? For example, you have edge. You can split them into less than 20, between 20 to 30, 30 to 40, 40 to 50, and then greater than 50. 
+
+So this is called a predefined category, right? So you discretize based on, this is called a static discretization. OK. And also, you can use another method to determine the best splitting point. Well, so in this case, you have many, many splitting. Every point can be split between 50 to 80, 18 to 21, 21 to 22. Right? 
+
+So those are possible splitting points. OK? So you can use statistical information to decide the splitting point. OK? For example, we find a point with the maximum information gain for A, if for A is selected as the splitting point. So for this variable, you choose that point as, well, when that point is split, you get the maximum information gain. OK? 
+
+So if you choose that splitting point, then you have two sets. One is less than the splitting point, or equal to the splitting point, and then the other side is greater than the splitting point. Right? So we call this dynamic discretization. Well, you base on the data distribution, as we already studied in a previous module. OK?

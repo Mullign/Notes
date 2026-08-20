@@ -1,0 +1,5 @@
+[[Connecting Course Learning Objectives]]
+[[MMM - CH 11.pdf]]
+[[Module 13 Overview]]
+[[Module 13 overview .pdf]]
+[[The Mythical Man-Month - Chapter 11]]

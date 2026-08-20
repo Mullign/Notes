@@ -1,0 +1,10 @@
+![[Characteristics of Data & Data Objects slides.pdf]]
+Now, there are some important characteristics of structured data. Now, for the structured data, the first characteristic is dimensionality. That means how many attributes per record. So, the number of attributes. Now, in this, sometimes the number of attributes per record is very, very high. Then, often we call this a curse of dimensionality, because when you have a high dimension data, it is hard to apply the data mining algorithms. Then, the sparsity is another characteristic of the structured data. 
+
+So, for the number of presence for a certain object, then the resolution is the pattern often depends on the scale, okay? At a certain resolution, there is no pattern. However, if you get into the details, maybe you have some small part of patterns, okay? Then, distribution of the data, such as centrality dispersion, decides how effective you can apply your data mining algorithms. So, what is a data object? Data sets are made up of data objects, right? So, a data object represents an entity of a real world. 
+
+For example, the sales database, okay? It includes the customers, which is a table representing the customers. And then, you have store items, which include in the transaction of the customers. Then, the sales, the sales is the transaction data, right? And then, medical database, you have a table called the patient. Then, you have treatment, right? Then, university database, you have students, professors, courses, enrollment, and all those different tables represent different entities, okay? 
+
+And for each entity, you may have one record or example or instance. You call them whatever you call them. So, we call them as one data point or one object. Sometimes, you call one tuple, okay? Because a tuple includes a record with different attribute values, okay? So, attributes describe the data object, okay? Then, in the database, if you look at the database, each row represents one data object, okay? 
+
+Each column represents the attributes, okay?

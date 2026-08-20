@@ -1,0 +1,5 @@
+A [Course Certificate](https://learner.coursera.help/hc/en-us/articles/208280196-Course-Certificates "Course Certificates") is an official Coursera credential that confirms that you successfully completed a course on Coursera. You can see all the Course Certificates you've earned on your [Accomplishments](https://www.coursera.org/accomplishments/ "Your Accomplishments page") page in Coursera. After you earn a Course Certificate, you can [share it online](https://learner.coursera.help/hc/en-us/articles/208280246-Share-your-Course-Certificate "Share your course certificate") on your LinkedIn profile or using a secure Coursera URL.
+
+A Coursera Course Certificate does **not** provide professional or academic credits, which is why it says "non-credit" on the Course Certificate.
+
+However, all courses that you complete for the Master of Science in Computer Science degree will count as credit towards your degree at Clemson University, which is an accredited institution of higher education. Clemson University does **not** award certificates for individual classes, but once you graduate from the program, you will earn your final degree.

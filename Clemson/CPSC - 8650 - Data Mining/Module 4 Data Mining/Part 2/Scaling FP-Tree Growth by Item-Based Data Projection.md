@@ -1,0 +1,18 @@
+![[Scaling FP-Tree Growth by Item-Based Data Projection Slides.pdf]]
+In case the memory cannot fit the entire FPTree, well, you can do it by item-based data projection. Say, what if the FPTree cannot fit in the memory? You don't construct the entire FPTree, and you project the database based on frequent single-item sets. And then after your projection, of course, your database is reduced in size. Hopefully, the reduced size can actually be put in the memory. Now you can do this partition like this. You have a parallel projection or a partition-based projection. 
+
+So, for example, given a transaction database, this is a transaction database, f2, f3, f4, f3, f4, i, j, g, h, f2, f4, fk, h. So this is our transaction. f are frequent items. g, h, i, j, k, h are not. So the parallel projection projects the DB on each frequent item. So for example, we project f2. Then you will get a database of f3, f4, g, h, f4, k. And project a frequent f1, then you get f3, because it contains f1. Or project f3, it contains transactions f1, f2, f3, f4, f3, f4, f1, f3, f4, and h. 
+
+So you can see this, right? Like f4 projected, you have f4, f2, f3, f3, f2. And then f3 projected, and then f3. So you can see this, right? Our assumption is like g, h, i, j, k, h are not frequent. Okay, only those f's are frequent. So then this is called the parallel projection. 
+
+Now the parallel projection has a problem where actually you need, because you have frequent, then you have to do projection. So you need a lot of space. Okay, now the space, you need to require a lot of space. But the problem is like, if you have sufficient space, then you can process all the partition, and find the frequency items in this small set. Because those databases become smaller, and then you run the FP, go straight on each of them. And they, because they are already partitioned into the different projection, f4 projection, then you build, you can do it. They are independent, actually. 
+
+So you can actually process all the partitions in parallel. Okay. And the next one is called the partition projection. So you partition the database in order. And then you partition the database. Then you build the FP, go straight. Then you take this, partially build the tree, okay? 
+
+And then to the other part. And then you continue doing this. So instead of partition, parallel with the frequent item. Okay. So this is again, okay? Every time you do one, okay? And then you project it back, okay? 
+
+And the first one does not need, the first one needs a lot of space, can do it in parallel. The second one is actually you project it, and then only if f2 needed, and then process that, right? When process the f4 projection, right? And then f2 will be projected to the f3. Only when process f4 project the DB. Because f2s will not be project. Only if, so you do it one by one. 
+
+Now if f2 is, so f2 is not a process, and you will not go further to f3, okay? So this is how it does. So you go one by one, and all you partition all of them. Every time you go, and all you do the partition, and then find whatever f2 is processed already, and then you find in the f3, and then you do the f3. And then f3, you find another frequent, and then you find another, go to another partition, okay? So this is how to scale. Now the first one, you can improve the speed tremendously, and also fit in the memory, but the problem you need some space to store all the partitions. 
+
+The second one is you do the process, only the store the processed ones, and then when you store the processed one, you go to another one, okay? So basically it's like, for those that have not been processed currently, you will not do the partition. Okay, you do the partition, only you continue, okay?

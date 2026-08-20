@@ -1,0 +1,10 @@
+[[Course Syllabus]]
+[[Connecting Course Learning Objectives]]
+[[Learner Support Resources]]
+[[Overview of Course Learning Objectives]]
+[[Chapter 1 What is Software Engineering]]
+[[What is Software Engineering]]
+[[What is AI?]]
+[[Discussion Instructions and Software Engineering Wrap-Up]]
+[[TED Talk What is AI Anyway?]]
+

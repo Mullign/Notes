@@ -1,0 +1,3 @@
+Hi, everyone, welcome back. ​In this chapter, we're going to be talking about evaluations part two, ​which consists of inspection, analytics, ​and model type approaches. ​This is based on chapter five of the interaction design textbook, ​and you have the book chapter readings to go along ​with this lecture video. ​The aims of this chapter are as follows. ​Describe the key concepts associated with inspection methods. ​Explain how to do heuristic evaluation and walkthroughs. ​Explain the role of analytics in evaluation. 
+
+​Finally, describe a very common predictive model called Fitts' law. ​Thank you for watching. ​We'll see you in the next chapter.

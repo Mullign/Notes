@@ -1,0 +1,1 @@
+Open this page in a new tab: [https://www.tabnine.com/install/](https://www.tabnine.com/install/ "Install - Tabnine: The AI code assistant that you control")

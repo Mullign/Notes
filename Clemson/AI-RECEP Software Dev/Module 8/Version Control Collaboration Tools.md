@@ -1,0 +1,3 @@
+[MUSIC] There are quite a few tools for version control. We're going to really focus on git in this course, but there are again, many different ones. Git is one of the most popular ones, and so that's why we're going to focus on it. If you don't know about git branching, please do the following tutorial. It's a very cool tutorial. It's interactive, and it helps you learn about Git branching. Make sure you do this tutorial. 
+
+If you do not know about git branching, this may show up on a quiz at some point. I have a couple different readings for you all about version control. These are optional, but I highly recommend just checking them out, skimming them, and then coming back.

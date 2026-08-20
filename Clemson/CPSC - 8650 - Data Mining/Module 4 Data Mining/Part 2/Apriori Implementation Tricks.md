@@ -1,0 +1,9 @@
+![[Apriori Implementation Tricks Slides.pdf]]There are some implementation tricks for this FPriority Algorithm. To generate the candidate, we have actually two steps. First step is to self-join these k-frequent item sets into the k-plus-one item set. At the same time, and after we generate, we want to prune them to find those if they contain infrequent item sets. For example, we join A, B, C, and A, B, D, okay? So then there is A, B, C, A, B, D is frequent. Then we check B, C, D. B, C, D is also frequent, so there is nothing infrequent. 
+
+Then we keep this as the candidate. So A, B, C, D is our new candidate for C4, okay? However, if you self-join A, C, D, and A, C, E, that generates a new four item set A, C, D, E. Then if you check A, C, D, E, it contains A, D, E. A, D, E is not in the frequent item set, right? A, D, E is not, okay? Even though A or C, D, E is also not in there. 
+
+So A, D, E or C, D, E are not there, so we have to prune them. So A, C, D, E should not be generated, okay? So in that case, we can prune them, right? Because A, D, E is not and C, D, E is not, right? So you do the pruning, okay? So finally, we get the candidate set is only A, B, C, D. Okay, so that's it. 
+
+So the candidate generation process is suppose the item set in F, K-1, at least in the order, okay? And then step one is joined to generate the F, K, C, K. Then you keep doing this process, okay? Then step two is if the candidates that you join creating, okay, and has infrequent subset, you remove them, okay? If does not include infrequent subset, you will just add this K-item set into the candidate. That's it, okay? So that's the process. 
+
+So we get to learn the first a priori algorithm, okay, for identify finding the frequent item set. So this is using downward property, okay? And then, of course, we will study later on how to improve this algorithm.

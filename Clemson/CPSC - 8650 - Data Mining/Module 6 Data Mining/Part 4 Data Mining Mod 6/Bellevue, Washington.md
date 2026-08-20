@@ -1,0 +1,46 @@
+Another set of algorithms called the Delta P clusters, and the study tried to eliminate all bi-clusters with a large data set. Because it will use this idea, okay? Since a submatrix ij is bi-cluster with perfect coherent values, if ei1j1 minus ei2j1 equal to ei1j2 minus ei2j2, okay? That we already discussed before, right? So that's perfect. So, we define the p-score as their differences, because they are not equal, right? ei1j1 minus ei2j1 are different from ei1j2 minus ei2j2, okay? 
+![[Types-of-Bi-Clusters.pdf]]
+[[Bellevue, Washington]]
+[[Bi-Clustering Methods]]
+![[Bi-Clustering-Methods.pdf]]
+[[CLIQUE]]
+![[CLIQUE.pdf]]
+[[Computing Mixture Models with EM and Pros and Cons of Mixture Models]]
+![[Computing-Mixture-Models-with-EM-and-Pros-and-Cons-of-Mixture-Models.pdf]]
+[[DBSCAN]]
+![[DBSCAN.pdf]]
+[[DBSCAN Algorithm]]
+![[DBSCAN-Algorithm.pdf]]
+[[Delta Bi-Cluster Algorithm]]
+![[Delta-Bi-Cluster-Algo.pdf]]
+![[Delta-pCluster-Algo.pdf]]
+[[Expectation Maximization Algorithm]]
+![[Expectation-Maximization-Algorithm.pdf]]
+[[Introduction to Advanced Methods and Fuzzy Clusters]]
+[[Introduction to Bi-Clustering]]
+[[Introduction to Density-Based Clustering Methods]]
+[[Introduction to Grid-Based Clustering Methods]]
+![[Introduction-to-Advanced-Methods-and-Fuzzy-Clusters.pdf]]
+![[Introduction-to-Bi-Clustering.pdf]]
+![[Introduction-to-Density-Based-Clustering-Methods.pdf]]
+![[Introduction-to-Grid-Based-Clustering-Methods.pdf]]
+[[MaPle Algorithm]]
+![[MaPle-Algo.pdf]]
+[[OPTICS]]
+![[OPTICS.pdf]]
+[[OPTICS Finding Hierarchically Nested Clustering Structures]]
+[[OPTICS Visualization and Algorithm]]
+![[OPTICS-Finding-Hierarchically-Nested-Clustering-Structures.pdf]]
+![[OPTICS-Visualization-and-Algorithm.pdf]]
+[[Probabilistic Model-Based Clustering]]
+![[Probabilistic-Model-Based-Clustering.pdf]]
+[[STING]]
+![[STING.pdf]]
+[[Types of Bi-Clusters]]
+We define that those two by two submatrix ij, any one of those two submatrix i and j, okay? As a p-score equal to the epsilon value of this difference between those coherent values. Right now, if they are perfect coherent values, then they must be equal. Now, they are not equal, they must have a p-score here. So we call this a p-score, okay? So, a submatrix ij is a delta p-cluster, okay? Pattern-based cluster. 
+
+If the p-score of every two submatrix of ij is at the most delta. So, every one of those differences does not exceed the threshold. Now, that threshold is specified by the user on the tolerance of noise against the perfect bi-cluster, okay? So, p-score controls the noise on every element in the bi-cluster, okay? Which is different from the mean squared residue in the delta cluster, right? Where you actually capture the average noise because you do the mean squared residue, okay? You compare with the mean, okay? 
+
+And if i and j is delta p-cluster, okay? Every x times y, every submatrix of i and j is also a delta p-cluster. Because we have every pair of them, every two-by-two matrix in the ij are at the most delta, so any submatrix must follow the same condition, right? They are at the most delta, okay? So, it is a monotonicity, okay? So, a delta p-cluster is maximal if no more rows or columns can be added into the cluster still retain the delta p-cluster, right? So, we only need to compute all the maximal delta p-clusters. 
+
+That way, it will cover everything and you cannot add any more, okay?

@@ -1,0 +1,21 @@
+![[Minkowski Distance Special Cases and Example Slide.pdf]]So the first special case is that when p equal to 1, we call it L1 norm, which is the Lp norm, so L1 norm. This is a Manhattan distance, or city block distance. It tried to measure the distance of two objects based on, assume, like, if you have two, think about this. You have one person standing in one city block, OK? And then try to reach another block. So you can only follow the shape. The shape is kind of square. 
+
+Then you can go one step, go through one street, and go to another. So you can only go straight, right, up, left, down. You cannot go diagonal, OK? So you cannot go diagonal. So this is called a city block. So the number of blocks you have to walk, the minimum number of blocks you have to walk is the distance. So essentially, the distance is the summation of all the attribute differences, right? 
+
+Of course, there is a special distance measure called the Hamming distance for the binary data. For binary data, you can see that the distance between the same attribute are always either 0 or 1, right? So if they are 0, if both of them are 0 or 1, they are 1. If both of them are 1 is 0 and 1 is 1, another is 1. So the distance between two binary vectors actually means the sum of their different bits, OK? So at that position, if the bits are different, then you sum. You accumulate all those different bits, OK? 
+
+So that's called a Hamming distance. So this is for the Manhattan distance. And then for Euclidean distance, it's take a square, the p equal to 2, OK? So l2 0. So you take the power of, OK, square, OK? The power of 2. And then take a square root, 2 root of 2, OK? 
+
+And then that's measured. Then we will come back to see the examples later on, OK? And another situation is called the Supremand distance. The Supremand distance is called the infinite or maximum distance. So what it does is try to find all the difference between the attributes each, OK? And then find the maximum value, OK? So let's get back to this point here. 
+
+Look at these examples, OK? And we have the data point, like we gave the example in the previous part, right? So for the Manhattan distances, it is a block or steady block distance. Assume like you stand at point x1. So you can only walk right or up and right or up and up. So that's how many blocks? One block, two block, three block, four block, five block. 
+
+So the distance between x1 and x2 are 5, OK? You cannot walk straight from x1 to x2 because those blocks are building, OK? So this is the Manhattan distance, OK? So essentially, what you do is you add the sum of difference, absolute distance, between two attributes, x1. So this distance difference is 2. This distance difference is 3. So the total is 5. 
+
+And again, if you take x2 and x4, so 3 minus 4 absolute is 1. 5 minus 5 absolute is 0. So the distance between x2 and x4 is 1, all right? And then if you look at x4 and x4, 3. And then 4 minus 2 equal to 2. 5 minus 0 equal to 5. And 2 plus 5 equal to 7. And then if you look at this graph, you can see you can walk up one step, 2, 3, 4, 5, 6, 7 steps. That's the minimum time steps you need to walk to get to blocks you need to walk to get to x4 from x3. 
+
+Euclidean distance is measured as square root of x1 1 minus x2 1 plus x1 2 minus x2 2, square root of x1 1, 1, 2 minus x2 2. And then sum them, pick a square root. So essentially, it's a directed distance on this coordinate system, x1, between x1 and x2. So it's just equal to this, the square, and then the square of this side, and then square root, OK? And that's how you calculate. And then the parametric distance, this parametric distance is infinite. So you take the maximum single-attributed distances. 
+
+For example, the difference between x2 and x3 is the attribute 2, 5, and the attribute 1 is 1. So that's the maximum. So the supremum distance L infinity of x2, x3 is equal to 5. You can see this 5. And then how about x3 and x4? Again, 5 over 0, because I have 5 minus 0. And that's 2 minus 2, so that's also 5. 
+
+You can see 5 here, OK? So Minkowski distance at special cases, OK?

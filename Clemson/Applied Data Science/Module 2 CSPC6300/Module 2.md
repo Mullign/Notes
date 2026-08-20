@@ -1,0 +1,12 @@
+[[02-01-EDA-Lab.pdf]]
+[[02-02-EDA-homework.pdf]]
+[[Connecting Course Learning Objectives]]
+[[EDA HW 2]]
+[[EDA Lab 2]]
+[[Error Evaluation and Model Fitness]]
+[[Error Evaluation and Model Fitness Slides.pdf]]
+[[Introduction to Regression]]
+[[Introduction to Regression Slides.pdf]]
+[[Module 2 Accessible Slides.pdf]]
+
+[[Module 2 Accessible Slides.pdf]]

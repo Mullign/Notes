@@ -1,0 +1,5 @@
+In this video, we are going to study density-based and grade-based methods for cluster analysis. So the density-based cluster method utilizes the density, which is a local cluster criteria, to identify the clusters. The main idea is to find the density-connected points. So this method has some major features. First, it can discover clusters of arbitrary shapes, as long as the arbitrary shape has the density-connected points connected. And it can handle noise. So if the noise points, like outliners, are far away from the clusters, they cannot be reached by density connectivity. 
+
+And also, those algorithms just based on one scan by examining the local region to identify the density. Now there is a drawback of this density-based clustering method. It needs density parameters, and mostly EPS and minimum points we will define later on. There are several major studies in the past years. The first one was DBSCAN, and then there is OPTIX, DENCO, and CLIQR. So those are the major studies on density-based clustering. It is interesting that CLIQR is also a grade-based method. 
+
+It is a combination of grade-based approach with the density-based approach.

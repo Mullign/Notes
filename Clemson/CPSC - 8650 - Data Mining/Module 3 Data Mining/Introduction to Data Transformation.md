@@ -1,0 +1,6 @@
+![[Introduction to Data Transformation Slides.pdf]]
+In this video, we're going to study data transformation. Include normalization, discretization, data compression, and sampling. What is data transformation? Data transformation is a function that maps the entire set of values of a given attribute to a new set of replacement values. Each old value can be identified with one of the new values. There are several methods for data transformation. Smoothing is one of them. 
+
+It's trying to remove the noise from the data. We can also construct a new attribute from the given attribute. We call it attribute of feature construction. You can also do the aggregation, such as summarization and data cube construction. Normalization is a way to convert data so that it falls within a smaller or a specific range. We will study three different normalization methods. The first one is called the min-max normalization, then we study z-score normalization, and then normalization by decimal scaling. 
+
+There are several discretization methods, and we will focus on the concept of hierarchy and also touch base on the other methods.
