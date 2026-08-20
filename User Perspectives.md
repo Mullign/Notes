@@ -1,1 +1,0 @@
-![[en-Human-Centered Computing Perspectives.txt]]

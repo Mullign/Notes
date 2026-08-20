@@ -1,0 +1,1 @@
+![[en-Closing Thoughts_ Embracing the HCC Journey.txt]]
