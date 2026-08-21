@@ -1,4 +1,4 @@
 .tools/
+fix-git-lfs-path.sh
 push-module5-video.sh
 .DS_Store
-fix-git-lfs-path.sh
